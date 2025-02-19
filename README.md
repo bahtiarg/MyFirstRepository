@@ -10,3 +10,5 @@
 * Что такое Git
 * Что такое GitHub
 * Что такое Markdown
+# Цель
+Стать Senior .net developer
